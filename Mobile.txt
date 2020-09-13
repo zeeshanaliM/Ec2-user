@@ -1,0 +1,1 @@
+Branches are the parellel devolopment where two or more teams working on the same piece of code on different branches later they can integrate the changes by merging.
